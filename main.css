@@ -1,0 +1,124 @@
+body {
+	background:url(music.png) center fixed no-repeat;
+	color:#484848;
+	font-family:"Trebuchet MS", "Arial", "Helvetica", sans-serif;
+}
+h3{
+	text-align:center;
+	text-decoration:inherit;
+	}
+#wrapper{
+		margin:0 auto;
+		background:#3186AD;
+		max-width:1000px;
+		width:96%;
+		}
+		header{
+	padding :5px;
+	text-align:center;
+}
+nav{
+	background:#FFFFFF;
+	display:block;
+	padding: 15px;
+		text-align:center;
+	
+	}
+	nav ul li{
+	
+	background:#09C;
+	display:inline-block;
+	padding: 15px 20px 15px 20px;
+	
+	}
+	nav ul li a{
+		color:#484848;
+		}
+	.left-col ol{
+		background:#F60;
+		color:#484848;
+		margin-left:10%;
+		margin-right:10%;
+		border:#484848;
+		}
+	.left-col{
+		background:#FFFFFF;
+		
+		width:50%%;
+		margin-left:10%;
+		margin-right:10%;
+		margin-top:2%;
+		
+		}
+		#social{
+			text-align:center;
+			}
+	.sidebar1
+	{
+		background:#FFFFFF;
+		width:50%%;
+		margin-left:10%;
+		margin-right:10%;
+		margin-top:2%;
+		
+	}
+	.sidebar1 ul{
+		background:#09C;
+		margin-left:10%;
+		margin-right:10%;
+		color:#484848;
+		
+		}
+
+		.download{
+			background:#FFFFFF;
+		width:80%%;
+		color:#484848;
+		margin-left:10%;
+	
+		margin-top:2%;
+			}
+			.download ul{
+				list-style:none;
+			text-align:center;
+		background:#0C0;
+		color:#484848;
+		margin-left:10%;
+		margin-right:10%;
+		
+		
+				
+				}
+				.download ul a{
+		
+		color:#484848;
+				}
+				.aboutus{
+		background:#FFFFFF;
+		width:80%%;
+		margin-left:10%;
+		margin-right:10%;
+		margin-top:2%;
+		
+		}
+		.aboutus ul{
+				list-style:none;
+			text-align:left;
+		background:#333;
+		color:#FFFFFF;
+		margin-left:10%;
+		margin-right:10%;
+				
+				}
+				.aboutus ul li{
+				list-style:none;
+		
+		margin-left:10%;
+		margin-right:10%;
+				
+				}
+		
+	footer h3{
+		text-align:center;
+clear:both;
+	}
